@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pratyush3344&icon=0&color=0)](https://visitcount.itsvg.in)
-
+p><a target="_blank" href="https://twitter.com/@pratyus02521299" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=#0f1419" alt="twitter" /></a></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
